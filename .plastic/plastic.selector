@@ -1,0 +1,4 @@
+repository "cubersurferupperpik@mustafakan242@cloud"
+  path "/"
+    br "/main"
+    co "/main"
